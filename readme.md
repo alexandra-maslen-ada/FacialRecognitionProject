@@ -11,21 +11,21 @@
 ./prepped_data/gender_images/
 ./prepped_data/smiling_images/
 ./tested_data/
-/tested_data/attractive/
-/tested_data/attractive/FN/
-/tested_data/attractive/FP/
-/tested_data/attractive/TN/
-/tested_data/attractive/TP/
-/tested_data/gender/
-/tested_data/gender/FN/
-/tested_data/gender/FP/
-/tested_data/gender/TN/
-/tested_data/gender/TP/
-/tested_data/smiling/
-/tested_data/smiling/FN/
-/tested_data/smiling/FP/
-/tested_data/smiling/TN/
-/tested_data/smiling/TP/
+./tested_data/attractive/
+./tested_data/attractive/FN/
+./tested_data/attractive/FP/
+./tested_data/attractive/TN/
+./tested_data/attractive/TP/
+./tested_data/gender/
+./tested_data/gender/FN/
+./tested_data/gender/FP/
+./tested_data/gender/TN/
+./tested_data/gender/TP/
+./tested_data/smiling/
+./tested_data/smiling/FN/
+./tested_data/smiling/FP/
+./tested_data/smiling/TN/
+./tested_data/smiling/TP/
 ```
 
 2) Download the contents of the Kaggle project [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) and put it into the directory `original_data`.
@@ -39,6 +39,8 @@
 * `numpy`
 * `keras`
 * `opencv-python`
+* `matplotlib`
+* `seaborn`
 
 ## How to use
 
